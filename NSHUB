@@ -74,6 +74,4 @@ elseif placeId == 17434340300 then--ANIME SPEED RACE
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/09op/main/kop2"))()
 elseif placeId == 2414851778 then--Dungeon QUEST
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/Best/main/Dungeon"))()
-else
-    print("If you See this Message this means this game is not Supported Yet but feel free to ask this to nameless scripts in discord: https://discord.gg/ZkptAdmFDg")
 end
