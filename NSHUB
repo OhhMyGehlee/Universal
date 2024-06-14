@@ -1,6 +1,5 @@
 local placeId = game.PlaceId
 
-
 if placeId == 15744137588 then --- +1 blade slayer
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/dsaw2/main/asdwa"))()
 elseif placeId == 16436007861 then--WARRIOR SIMULATOR
@@ -31,8 +30,6 @@ elseif placeId == 6897167394 then--Fruit Seas
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/dsaw/main/asdwa"))()
 elseif placeId == 9704927237 then--Anime Switch
     print("Still Scripting for This Might Release When the Game Is Realease")
-elseif placeId == 2414851778 then--Dungeon QUEST
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/Best/main/Dungeon"))()
 elseif placeId == 2414851778 then--Anime Punching Simulator 2
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/89/main/24"))()
 elseif placeId == 17250334236 then--Magic RNG
@@ -75,6 +72,8 @@ elseif placeId == 16721806812 then--TOUNGE BATTLES
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/po/main/78"))()
 elseif placeId == 17434340300 then--ANIME SPEED RACE
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/09op/main/kop2"))()
+elseif placeId == 2414851778 then--Dungeon QUEST
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/Best/main/Dungeon"))()
 else
     print("If you See this Message this means this game is not Supported Yet but feel free to ask this to nameless scripts in discord: https://discord.gg/ZkptAdmFDg")
 end
