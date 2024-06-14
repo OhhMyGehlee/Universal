@@ -1,0 +1,80 @@
+local placeId = game.PlaceId
+
+
+if placeId == 15744137588 then --- +1 blade slayer
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/dsaw2/main/asdwa"))()
+elseif placeId == 16436007861 then--WARRIOR SIMULATOR
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/asdwa/main/d"))()
+elseif placeId == 10449761463 then-- STRONGEST BATTLEGROUNDS
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/wdas/main/78"))()
+elseif placeId == 14115013144 then--GRIMOIRES ERA
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/dwas/main/dsaw2"))()
+elseif placeId == 11872917490 then--FABLED LEGACY
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/sdw6/main/7689op"))()
+elseif placeId == 14206387098 then--CURSED ARENA
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/sdawd6/main/90"))()
+elseif placeId == 13772394625 then--BLADE BALL
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/sda2/main/6"))()
+elseif placeId == 16510724413 then--PET CATCHERS
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/yt/main/6"))()
+elseif placeId == 9391468976 then--JUJUTSU Shenanigans
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/657/main/kilo"))()
+elseif placeId == 10515146389 then--Elemental Dungeons
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/typo/main/ye"))()
+elseif placeId == 11276071411 then--Be NPC OR DIE
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/fghj/main/bod"))()
+elseif placeId == 16733754732 then--Anime Islands
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/dsax/main/2"))()
+elseif placeId == 16993380837 then--RNG GODS
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/wdasd/main/asd4"))()
+elseif placeId == 6897167394 then--Fruit Seas
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/dsaw/main/asdwa"))()
+elseif placeId == 9704927237 then--Anime Switch
+    print("Still Scripting for This Might Release When the Game Is Realease")
+elseif placeId == 2414851778 then--Dungeon QUEST
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/Best/main/Dungeon"))()
+elseif placeId == 2414851778 then--Anime Punching Simulator 2
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/89/main/24"))()
+elseif placeId == 17250334236 then--Magic RNG
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/jk2/main/dsa"))()
+elseif placeId == 17651315739 then--HORRORS RNG
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/90po/main/kop90"))()
+elseif placeId == 16981421605 then--REBORN AS SWORDSMAN
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/sdaw/main/sdsa"))()
+elseif placeId == 17344826266 then--ANIME ODYSSEY
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/sdwa/main/32ads"))()
+elseif placeId == 4855457388 then--DEMON FALL
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/df/main/bt"))()
+elseif placeId == 17501710879 then--ROLLER SKATE RACING
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/sdwa56/main/jilo"))()
+elseif placeId == 15800803561 then--EGG EMPIRE
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/yup/main/pire"))()
+elseif placeId == 13379208636 then--ATTACK ON TITAN REVOLUTION
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/ewq/main/sdw"))()
+elseif placeId == 14752086859 then--ANIME MAX
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/23s/main/sda"))()
+elseif placeId == 14015533453 then--ANIME REALMS
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/sdwsa/main/nets"))()
+elseif placeId == 17044493745 then--EXTALIA SIMULATOR
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/sadw/main/sda"))()
+elseif placeId == 17298589168 then--AURA CRAFT
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/wasdw/main/sd"))()
+elseif placeId == 16112501126 then--UNLIMITED BATTLEGROUNDS
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/sdwaads/main/123"))()
+elseif placeId == 11815767793 then--ULTIMATE BATTLEGROUNDS
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/jki/main/sdsaw"))()
+elseif placeId == 16682148962 then--SWORD LEGENDS SIMULATOR 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/gdfhj/main/dsaty"))()
+elseif placeId == 17055852738 then--RICH RNG
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/hgi/main/uiy"))()
+elseif placeId == 17164415405 then--UGC RNG 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/dss/main/3"))()
+elseif placeId == 16914149804 then--ANIME SWORDS X
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/2eas/main/4"))()
+elseif placeId == 16721806812 then--TOUNGE BATTLES
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/po/main/78"))()
+elseif placeId == 17434340300 then--ANIME SPEED RACE
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/09op/main/kop2"))()
+else
+    print("If you See this Message this means this game is not Supported Yet but feel free to ask this to nameless scripts in discord: https://discord.gg/ZkptAdmFDg")
+end
