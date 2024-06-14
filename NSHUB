@@ -30,7 +30,7 @@ elseif placeId == 6897167394 then--Fruit Seas
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/dsaw/main/asdwa"))()
 elseif placeId == 9704927237 then--Anime Switch
     print("Still Scripting for This Might Release When the Game Is Realease")
-elseif placeId == 2414851778 then--Anime Punching Simulator 2
+elseif placeId == 17114605748 then--Anime Punching Simulator 2
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/89/main/24"))()
 elseif placeId == 17250334236 then--Magic RNG
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/jk2/main/dsa"))()
