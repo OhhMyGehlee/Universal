@@ -1,7 +1,7 @@
 local placeId = game.PlaceId
 
-if placeId == 15744137588 then --- +1 blade slayer
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/dsaw2/main/asdwa"))()
+if placeId == 2414851778 then --- Dungeon Quest
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/Best/main/Dungeon"))()
 elseif placeId == 16436007861 then--WARRIOR SIMULATOR
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/asdwa/main/d"))()
 elseif placeId == 10449761463 then-- STRONGEST BATTLEGROUNDS
@@ -72,6 +72,6 @@ elseif placeId == 16721806812 then--TOUNGE BATTLES
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/po/main/78"))()
 elseif placeId == 17434340300 then--ANIME SPEED RACE
     loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/09op/main/kop2"))()
-elseif placeId == 2414851778 then--Dungeon QUEST
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/Best/main/Dungeon"))()
+elseif placeId == 15744137588 then-- +1 Blade Slayer
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/dsaw2/main/asdwa"))()
 end
